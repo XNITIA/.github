@@ -86,14 +86,14 @@ We welcome contributions from the community. If you have any ideas, suggestions,
 
 
 ## Address
-1. 17 Sunbeam Close Smithswood Birmingham, United Kingdom
-2. Gulshan - e - Iqbal, Block 4A
+1. 📍 17 Sunbeam Close Smithswood Birmingham, United Kingdom
+2. 📍 Gulshan - e - Iqbal, Block 4A
 
 ## Contact
 
-`Call us: Mon - Fri 9:00 am - 9:00 pm`
-`+92 332 9381910`
-`info@xnitia.com`
+📞 `Call us: Mon - Fri 9:00 am - 9:00 pm` </br>
+📞 `+92 332 9381910` </br>
+📧 `info@xnitia.com` </br>
 
 For more information, please visit our [website](https://xnitia.com/) or reach out to us on [LinkedIn](https://www.linkedin.com/company/xnitia) and [Instagram](https://www.instagram.com/xnitia_/).
 
