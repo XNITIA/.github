@@ -1,4 +1,4 @@
-# Techxudo
+# XNITIA
 
 Welcome to `XNITIA` official GitHub repository!
 
@@ -30,6 +30,116 @@ Our journey has been far from effortless. We have encountered numerous challenge
     <p>Industry awards</p>
   </div>
 </div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Client Testimonials</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    .testimonial-container {
+      display: flex;
+      overflow-x: scroll;
+      scroll-snap-type: x mandatory;
+      scroll-behavior: smooth;
+      padding: 20px;
+    }
+
+    .testimonial {
+      flex: none;
+      width: 300px;
+      margin-right: 20px;
+      background-color: #f9f9f9;
+      border-radius: 10px;
+      padding: 20px;
+      scroll-snap-align: start;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .testimonial:last-child {
+      margin-right: 0;
+    }
+
+    .testimonial h3 {
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+
+    .testimonial p {
+      font-size: 14px;
+      line-height: 1.5;
+      color: #555;
+    }
+
+    .testimonial img {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+
+    .testimonials-wrapper {
+      width: 100%;
+      max-width: 100vw;
+      overflow-x: hidden;
+    }
+
+    .testimonial-container::-webkit-scrollbar {
+      display: none;
+    }
+
+    @media (min-width: 768px) {
+      .testimonial-container {
+        padding: 40px;
+      }
+
+      .testimonial {
+        width: 400px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="testimonials-wrapper">
+    <div class="testimonial-container">
+      <div class="testimonial">
+        <img src="https://randomuser.me/api/portraits/women/1.jpg" alt="Client Photo">
+        <h3>Jane Doe</h3>
+        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget eros sit amet turpis faucibus pharetra."</p>
+      </div>
+      <div class="testimonial">
+        <img src="https://randomuser.me/api/portraits/men/2.jpg" alt="Client Photo">
+        <h3>John Smith</h3>
+        <p>"Vivamus non orci sit amet tortor ullamcorper tincidunt. Integer fringilla risus ut tincidunt suscipit."</p>
+      </div>
+      <div class="testimonial">
+        <img src="https://randomuser.me/api/portraits/women/3.jpg" alt="Client Photo">
+        <h3>Mary Johnson</h3>
+        <p>"Suspendisse a tortor vel nulla malesuada suscipit. Morbi aliquet purus at massa consectetur."</p>
+      </div>
+      <div class="testimonial">
+        <img src="https://randomuser.me/api/portraits/men/4.jpg" alt="Client Photo">
+        <h3>David Lee</h3>
+        <p>"Donec varius ipsum vel diam malesuada, vitae posuere leo viverra. Aliquam erat volutpat."</p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
+
 
 
 ## Our Services
@@ -98,7 +208,7 @@ We welcome contributions from the community. If you have any ideas, suggestions,
 `+92 332 9381910`
 `info@xnitia.com`
 
-For more information, please visit our [website](https://xnitia.com/) or reach out to us on [LinkedIn](https://www.linkedin.com/company/xnitia) and [Instagram]https://www.instagram.com/xnitia_/).
+For more information, please visit our [website](https://xnitia.com/) or reach out to us on [LinkedIn](https://www.linkedin.com/company/xnitia) and [Instagram](https://www.instagram.com/xnitia_/).
 
 
 Thank you for visiting our GitHub repository! We hope you find our projects useful and look forward to your contributions.
