@@ -86,7 +86,7 @@ We welcome contributions from the community. If you have any ideas, suggestions,
 
 
 ## Address
-📍 17 Sunbeam Close Smithswood Birmingham, United Kingdom
+📍 17 Sunbeam Close Smithswood Birmingham, United Kingdom </br>
 📍 Gulshan - e - Iqbal, Block 4A
 
 ## Contact
