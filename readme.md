@@ -16,6 +16,21 @@ Xnitia main focus is to provide complete IT Solutions to the world of technologi
 
 Our journey has been far from effortless. We have encountered numerous challenges, and our innovative ideas have faced resistance every step of the way. Nevertheless, we have cultivated perseverance and resilience. Importantly, throughout these years, we have never wavered in our enthusiasm and passion, which have been instrumental in sustaining our business growth. We have consistently upheld uncompromising standards of quality and have devised an efficient workflow that has propelled brands, startups, and institutions forward, facilitating the expansion of their businesses.
 
+<div style="display: flex; justify-content: space-around; background-color: #111; padding: 20px; color: #fff; font-family: Arial, sans-serif;">
+  <div style="text-align: center;">
+    <h1 style="color: #8e4ef7;">4+</h1>
+    <p>Years of experience</p>
+  </div>
+  <div style="text-align: center;">
+    <h1 style="color: #8e4ef7;">100+</h1>
+    <p>Successful cases</p>
+  </div>
+  <div style="text-align: center;">
+    <h1 style="color: #8e4ef7;">2+</h1>
+    <p>Industry awards</p>
+  </div>
+</div>
+
 
 ## Our Services
 
@@ -54,9 +69,9 @@ We offer services related to Data Science & Engineering, providing solutions tha
 
 ## Connect With Us
 
-- [Website](https://techxudo.com/)
-- [LinkedIn](https://www.linkedin.com/company/techxudo/)
-- [Instagram](https://www.instagram.com/techxudo/)
+- [Website](https://xnitia.com/)
+- [LinkedIn](https://www.linkedin.com/company/xnitia)
+- [Instagram](https://www.instagram.com/xnitia_/)
 
 
 ## Contribution
@@ -75,15 +90,15 @@ We welcome contributions from the community. If you have any ideas, suggestions,
 
 ## Address
 1. 17 Sunbeam Close Smithswood Birmingham, United Kingdom
-2. R-13 Gulshan e Akbar Malir Karachi, Pakistan
+2. Gulshan - e - Iqbal, Block 4A
 
 ## Contact
 
-`+44 7438 851458`
-`+92 337 8426564`
-`info@techxudo.com`
+`Call us: Mon - Fri 9:00 am - 9:00 pm`
+`+92 332 9381910`
+`info@xnitia.com`
 
-For more information, please visit our [website](https://techxudo.com/) or reach out to us on [LinkedIn](https://www.linkedin.com/company/techxudo/) and [Instagram](https://www.instagram.com/techxudo/).
+For more information, please visit our [website](https://xnitia.com/) or reach out to us on [LinkedIn](https://www.linkedin.com/company/xnitia) and [Instagram]https://www.instagram.com/xnitia_/).
 
 
 Thank you for visiting our GitHub repository! We hope you find our projects useful and look forward to your contributions.
